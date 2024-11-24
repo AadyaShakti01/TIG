@@ -44,40 +44,38 @@ This dataset enables the analysis of weather patterns, predictions, and trends o
 
 ## Managerial Insights :
     Query 1: Rain Today Status:
-    *   Transportation: Knowing the proportion of locations experiencing rain enables logistics managers to optimise routes, anticipate delays, and potentially issue warnings to drivers.
-    *   Event Management: For outdoor events, this information is crucial for planning rain contingency measures, such as providing shelter or rescheduling.
-    *   Agriculture: Farmers can use this data to make decisions about irrigation, harvesting, and the application of pesticides or fertilisers, which are affected by rainfall.
-    
-    Query 2: Humidity and Pressure Relationship:
-    *   Construction: Understanding pressure and humidity trends can inform decisions regarding the pouring of concrete or the application of certain building materials, which are sensitive to these conditions.
-    *   Aviation: Changes in pressure and humidity can impact aircraft performance and flight safety. Monitoring these trends allows for better flight planning and safety precautions.
-    
-    Query 3: Extreme Wind Gust Events:
-    *   Aviation: This query provides critical information for aviation safety, enabling the grounding of flights or rerouting of aircraft to avoid hazardous wind conditions.
-    *   Construction and Infrastructure: High wind speeds can pose risks to construction sites and infrastructure. Real-time alerts allow for precautionary measures, such as securing equipment or halting operations.
-    *   Public Safety: Alerts can be issued to the public to warn of potential dangers from high winds, such as falling trees or debris.
+*   Transportation: Knowing the proportion of locations experiencing rain enables logistics managers to optimise routes, anticipate delays, and potentially issue warnings to drivers.
+*   Event Management: For outdoor events, this information is crucial for planning rain contingency measures, such as providing shelter or rescheduling.
+*   Agriculture: Farmers can use this data to make decisions about irrigation, harvesting, and the application of pesticides or fertilisers, which are affected by rainfall.
 
-    Query 4: Real-Time Humidity and Pressure (Grouped Hourly):**
-    *   Manufacturing: Many industrial processes are sensitive to humidity and pressure changes. Real-time monitoring enables adjustments to maintain product quality and operational efficiency.
-    *   Storage and Warehousing: Humidity control is crucial for preserving the quality of stored goods, especially perishable items. 
+Query 2: Humidity and Pressure Relationship:
+*   Construction: Understanding pressure and humidity trends can inform decisions regarding the pouring of concrete or the application of certain building materials, which are sensitive to these conditions.
+*   Aviation: Changes in pressure and humidity can impact aircraft performance and flight safety. Monitoring these trends allows for better flight planning and safety precautions.
 
-    Query 5: Sunshine vs. Evaporation:
-    *   Agriculture: Farmers can use this data to optimise irrigation schedules and water usage, considering the combined effects of sunshine and evaporation.
-    *   Water Resource Management: Understanding evaporation rates is crucial for managing reservoirs and water supplies, especially in regions with limited water resources.
-    
-    Query 6: Maximum Temperature in the Last Hour:
-    *   Public Health:  Knowing the maximum temperature allows public health officials to issue heat advisories and implement measures to prevent heat-related illnesses.
-    *   Energy Consumption: High temperatures can lead to increased demand for cooling, impacting energy grids.  Monitoring peak temperatures helps in forecasting energy needs and managing supply.
+Query 3: Extreme Wind Gust Events:
+*   Aviation: This query provides critical information for aviation safety, enabling the grounding of flights or rerouting of aircraft to avoid hazardous wind conditions.
+*   Construction and Infrastructure: High wind speeds can pose risks to construction sites and infrastructure. Real-time alerts allow for precautionary measures, such as securing equipment or halting operations.
+*   Public Safety: Alerts can be issued to the public to warn of potential dangers from high winds, such as falling trees or debris.
 
-    Query 7: Wind Speeds (9AM vs 3PM) by Location:
-    *   Renewable Energy: Wind farms can use this data to optimise energy generation based on expected wind patterns at different times of the day.
-    *   Outdoor Activities: This information can be used to plan outdoor activities, such as sailing or kite flying, based on favourable wind conditions.
-    
-    Query 8: Real-Time Temperature Variation:
-    *   Agriculture: Understanding temperature fluctuations helps farmers protect crops from frost damage or heat stress.
-    *   Urban Planning: Monitoring temperature variations in urban areas can inform strategies to mitigate the urban heat island effect, such as planting trees or using reflective surfaces.
+Query 4: Real-Time Humidity and Pressure (Grouped Hourly):
+*   Manufacturing: Many industrial processes are sensitive to humidity and pressure changes. Real-time monitoring enables adjustments to maintain product quality and operational efficiency.
+*   Storage and Warehousing: Humidity control is crucial for preserving the quality of stored goods, especially perishable items. 
 
-By leveraging these insights, managers across diverse industries can make more informed decisions, enhance operational efficiency, mitigate risks, and improve overall outcomes.
+Query 5: Sunshine vs. Evaporation:
+*   Agriculture: Farmers can use this data to optimise irrigation schedules and water usage, considering the combined effects of sunshine and evaporation.
+*   Water Resource Management: Understanding evaporation rates is crucial for managing reservoirs and water supplies, especially in regions with limited water resources.
+
+Query 6: Maximum Temperature in the Last Hour:
+*   Public Health:  Knowing the maximum temperature allows public health officials to issue heat advisories and implement measures to prevent heat-related illnesses.
+*   Energy Consumption: High temperatures can lead to increased demand for cooling, impacting energy grids.  Monitoring peak temperatures helps in forecasting energy needs and managing supply.
+
+Query 7: Wind Speeds (9AM vs 3PM) by Location:
+*   Renewable Energy: Wind farms can use this data to optimise energy generation based on expected wind patterns at different times of the day.
+*   Outdoor Activities: This information can be used to plan outdoor activities, such as sailing or kite flying, based on favourable wind conditions.
+
+Query 8: Real-Time Temperature Variation:
+*   Agriculture: Understanding temperature fluctuations helps farmers protect crops from frost damage or heat stress.
+*   Urban Planning: Monitoring temperature variations in urban areas can inform strategies to mitigate the urban heat island effect, such as planting trees or using reflective surfaces.
 
 
 
